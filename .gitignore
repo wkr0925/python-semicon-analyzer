@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 杈撳嚭鍥剧墖
+output/*.svg
+output/*.png
+
+# IDE
+.vscode/
+.idea/
+
+# 绯荤粺鏂囦欢
+.DS_Store
+Thumbs.db
